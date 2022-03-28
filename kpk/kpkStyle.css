@@ -1,0 +1,58 @@
+header {
+    background: #f0f4fa !important;
+    width: 100%;
+    box-shadow: 0px 3px 5px 1px rgba(0, 0, 0, 0.096);
+    justify-content: start;
+   }
+.content {
+    display: flex;
+}
+.navigate {
+    margin-top: 1px;
+    background: #ffffff !important;
+    width: 1000px;
+}
+.navigate_content {
+    margin-left: 20px;
+}
+a {
+    color: rgb(73, 66, 109);
+    text-decoration: none;
+}
+.description{
+    background: #f0f4fa !important;
+    width: 90%;
+    margin-top: 20px;
+    margin-left: 100px;
+    display: flex;
+}
+.content_ {
+    display: flex;
+}
+.content_title {
+    font-weight: bold;
+    margin-right: 5px;
+}
+p {
+    margin-left: 20px;
+}
+.profession_desc {
+    margin-left: 5%;
+}
+.profession_title {
+    margin-left: 2%;
+}
+.profession_img {
+    width: 300px;
+    height: 300px;
+    margin-left: 10px;
+}
+.img_ {
+    align-self: center;
+}
+.h_active {
+    background-color: #f0f4fa;
+}
+.h_title {
+    margin-left: 50px;
+}
